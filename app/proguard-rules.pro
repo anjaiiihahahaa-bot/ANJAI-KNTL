@@ -1,3 +1,2 @@
-# WebView APK - no obfuscation needed
--keepattributes *Annotation*
--keepattributes SourceFile,LineNumberTable
+# Add project specific ProGuard rules here.
+-keep class com.vinzmd.webview.** { *; }
