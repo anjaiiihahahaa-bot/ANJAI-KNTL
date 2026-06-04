@@ -97,9 +97,16 @@ jobs:
             echo "⚠️  build_icon.png tidak ada, pakai icon default"
           fi
 
-      # ── 5. Gradle permission ───────────────────────────────────
+      # ── 5. Gradle permission + auto-generate gradlew ──────────
       - name: Grant execute permission
-        run: chmod +x gradlew
+        run: |
+          # Kalau gradlew tidak ada, generate via gradle wrapper
+          if [ ! -f "gradlew" ]; then
+            echo "⚠️  gradlew tidak ditemukan, generate otomatis..."
+            gradle wrapper --gradle-version 8.4
+          fi
+          chmod +x gradlew
+          echo "✅ gradlew siap"
 
       # ── 6. Build APK (debug, tidak perlu keystore) ─────────────
       - name: Build APK
