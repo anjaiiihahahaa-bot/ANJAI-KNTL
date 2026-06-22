@@ -5,7 +5,12 @@
     "monthly": 25000,
     "quarterly": 60000
   },
-  "discounts": {},
+  "discounts": {
+    "HEMAT70": {
+      "percent": 70,
+      "active": true
+    }
+  },
   "redeemMode": true,
   "totalAccounts": 0
 }
