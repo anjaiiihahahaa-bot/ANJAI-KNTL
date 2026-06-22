@@ -3,7 +3,7 @@
   "accountLimit": 1,
   "pricing": {
     "monthly": 50,
-    "quarterly": 1000000000000
+    "quarterly": 50
   },
   "discounts": {
     "HEMAT70": {
