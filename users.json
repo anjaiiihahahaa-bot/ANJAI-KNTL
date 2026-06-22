@@ -1,1 +1,11 @@
-{}
+{
+  "GDN-2026-8LQDVF": {
+    "uid": "GDN-2026-8LQDVF",
+    "name": "bjir",
+    "email": "riff@gmail.com",
+    "password": "$2a$10$V4a/X4iSOEOcJ9j6FFKeD.eJnsPQD8SQ6.19YyZDWjjPx5EdU5Mqy",
+    "telegramId": 6794173592,
+    "role": "parent",
+    "createdAt": "2026-06-22T03:58:01.025Z"
+  }
+}
