@@ -3,5 +3,12 @@
     "banned": true,
     "banReason": "Melanggar ketentuan",
     "bannedAt": "2026-06-22T22:33:05.480Z"
+  },
+  "6794173592": {
+    "plan": "trial",
+    "status": "active",
+    "startedAt": "2026-06-22T22:33:49.241Z",
+    "expiresAt": "2026-06-29T22:33:49.241Z",
+    "trialUsed": true
   }
 }
