@@ -6,6 +6,6 @@
     "quarterly": 60000
   },
   "discounts": {},
-  "redeemMode": false,
+  "redeemMode": true,
   "totalAccounts": 0
 }
