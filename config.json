@@ -1,5 +1,5 @@
 {
-  "maintenance": false,
+  "maintenance": true,
   "accountLimit": 1,
   "pricing": {
     "monthly": 50,
