@@ -1,11 +1,11 @@
 {
   "maintenance": false,
   "accountLimit": 0,
-  "redeemMode": false,
-  "totalAccounts": 0,
   "pricing": {
     "monthly": 25000,
     "quarterly": 60000
   },
-  "discounts": {}
+  "discounts": {},
+  "redeemMode": true,
+  "totalAccounts": 0
 }
