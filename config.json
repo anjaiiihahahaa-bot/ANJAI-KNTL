@@ -2,7 +2,7 @@
   "maintenance": false,
   "accountLimit": 1,
   "pricing": {
-    "monthly": 50,
+    "monthly": 15000,
     "quarterly": 40000
   },
   "discounts": {
