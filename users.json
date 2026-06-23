@@ -18,5 +18,14 @@
     "createdAt": "2026-06-23T00:32:45.682Z",
     "createdByDev": true,
     "devOwner": 6794173592
+  },
+  "GDN-2026-1O9T2A": {
+    "uid": "GDN-2026-1O9T2A",
+    "name": "@Feasthindiabaskara",
+    "email": "leydercasino@gmail.com",
+    "password": "$2a$10$wapf8OPo1HhgDZia4yiVIu/ZiaXZjjjqXT6NbVYOQuMFsiGQ9LTI2",
+    "telegramId": 7344214607,
+    "role": "parent",
+    "createdAt": "2026-06-23T01:30:19.306Z"
   }
 }
