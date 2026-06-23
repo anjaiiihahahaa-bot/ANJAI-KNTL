@@ -11,6 +11,6 @@
       "active": true
     }
   },
-  "redeemMode": false,
+  "redeemMode": true,
   "totalAccounts": 1
 }
