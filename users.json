@@ -27,5 +27,16 @@
     "telegramId": 7344214607,
     "role": "parent",
     "createdAt": "2026-06-23T01:30:19.306Z"
+  },
+  "GDN-2026-HQ9QBE": {
+    "uid": "GDN-2026-HQ9QBE",
+    "name": "RIZZ",
+    "email": "riz@gmail.com",
+    "password": "$2a$10$Mu4QKu8LTHbRiuSIMpJcfezuuX2wDGV3eytFDhWR.I2ZZ5dWE/P4G",
+    "telegramId": 0,
+    "role": "parent",
+    "createdAt": "2026-06-23T11:20:18.923Z",
+    "createdByDev": true,
+    "devOwner": 6794173592
   }
 }
