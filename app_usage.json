@@ -5,5 +5,264 @@
   "GDN-2026-HQ9QBE": {},
   "GDN-2026-JG43NQ": {},
   "GDN-2026-0NSID6": {},
-  "GDN-2026-6H9YIW": {}
+  "GDN-2026-6H9YIW": {
+    "google-Pixel_4-RQ3A.211001.001": {
+      "2026-06-24": {
+        "apps": [
+          {
+            "name": "Penyimpanan Ponsel dan Pesan",
+            "package": "com.android.providers.telephony",
+            "version": "7.1.2"
+          },
+          {
+            "name": "Penyimpanan Media",
+            "package": "com.android.providers.media",
+            "version": "7.1.2"
+          },
+          {
+            "name": "com.android.wallpapercropper",
+            "package": "com.android.wallpapercropper",
+            "version": "7.1.2"
+          },
+          {
+            "name": "File",
+            "package": "com.android.documentsui",
+            "version": "7.1.2"
+          },
+          {
+            "name": "Penyimpanan Eksternal",
+            "package": "com.android.externalstorage",
+            "version": "7.1.2"
+          },
+          {
+            "name": "Pengelola Download",
+            "package": "com.android.providers.downloads",
+            "version": "7.1.2"
+          },
+          {
+            "name": "Browser",
+            "package": "com.android.browser",
+            "version": "7.1.2"
+          },
+          {
+            "name": "Pembantu Akses Paket",
+            "package": "com.android.defcontainer",
+            "version": "7.1.2"
+          },
+          {
+            "name": "Guardian",
+            "package": "com.nullx.pp",
+            "version": "1.0.0"
+          },
+          {
+            "name": "Download",
+            "package": "com.android.providers.downloads.ui",
+            "version": "7.1.2"
+          },
+          {
+            "name": "PacProcessor",
+            "package": "com.android.pacprocessor",
+            "version": "7.1.2"
+          },
+          {
+            "name": "Pemasang Sertifikat",
+            "package": "com.android.certinstaller",
+            "version": "7.1.2"
+          },
+          {
+            "name": "com.android.carrierconfig",
+            "package": "com.android.carrierconfig",
+            "version": "1.0.0"
+          },
+          {
+            "name": "Sistem Android",
+            "package": "android",
+            "version": "7.1.2"
+          },
+          {
+            "name": "Kontak",
+            "package": "com.android.contacts",
+            "version": "1.4.22"
+          },
+          {
+            "name": "Kamera",
+            "package": "com.android.camera2",
+            "version": "2.0.002"
+          },
+          {
+            "name": "Launcher3",
+            "package": "com.android.launcher3",
+            "version": "7.1.2"
+          },
+          {
+            "name": "com.android.backupconfirm",
+            "package": "com.android.backupconfirm",
+            "version": "7.1.2"
+          },
+          {
+            "name": "com.android.provision",
+            "package": "com.android.provision",
+            "version": "7.1.2"
+          },
+          {
+            "name": "Intent Filter Verification Service",
+            "package": "com.android.statementservice",
+            "version": "1.0"
+          },
+          {
+            "name": "Setelan Penyimpanan",
+            "package": "com.android.providers.settings",
+            "version": "7.1.2"
+          },
+          {
+            "name": "com.android.sharedstoragebackup",
+            "package": "com.android.sharedstoragebackup",
+            "version": "7.1.2"
+          },
+          {
+            "name": "Android System WebView",
+            "package": "com.android.webview",
+            "version": "81.0.4044.117"
+          },
+          {
+            "name": "Perangkat Masukan",
+            "package": "com.android.inputdevices",
+            "version": "7.1.2"
+          },
+          {
+            "name": "VM Service",
+            "package": "com.android.vmservice",
+            "version": "3.0"
+          },
+          {
+            "name": "Siaran Seluler",
+            "package": "com.android.cellbroadcastreceiver",
+            "version": "7.1.2"
+          },
+          {
+            "name": "Android Shared Library",
+            "package": "android.ext.shared",
+            "version": "1"
+          },
+          {
+            "name": "Pengelolaan Panggilan Telepon",
+            "package": "com.android.server.telecom",
+            "version": "7.1.2"
+          },
+          {
+            "name": "Key Chain",
+            "package": "com.android.keychain",
+            "version": "7.1.2"
+          },
+          {
+            "name": "Telepon",
+            "package": "com.android.dialer",
+            "version": "3.00.00"
+          },
+          {
+            "name": "Galeri",
+            "package": "com.android.gallery3d",
+            "version": "1.1.40030"
+          },
+          {
+            "name": "Android Services Library",
+            "package": "android.ext.services",
+            "version": "1"
+          },
+          {
+            "name": "Call Log Backup/Restore",
+            "package": "com.android.calllogbackup",
+            "version": "7.1.2"
+          },
+          {
+            "name": "Pemasang paket",
+            "package": "com.android.packageinstaller",
+            "version": "7.1.2"
+          },
+          {
+            "name": "ProxyHandler",
+            "package": "com.android.proxyhandler",
+            "version": "7.1.2"
+          },
+          {
+            "name": "Penyiapan profil kerja",
+            "package": "com.android.managedprovisioning",
+            "version": "7.1.2"
+          },
+          {
+            "name": "Pemilih Wallpaper Animasi",
+            "package": "com.android.wallpaper.livepicker",
+            "version": "7.1.2"
+          },
+          {
+            "name": "Pengelola Penyimpanan",
+            "package": "com.android.storagemanager",
+            "version": "7.1.2"
+          },
+          {
+            "name": "Setelan",
+            "package": "com.android.settings",
+            "version": "7.1.2"
+          },
+          {
+            "name": "Layanan Telepon",
+            "package": "com.android.phone",
+            "version": "7.1.2"
+          },
+          {
+            "name": "Kerangka",
+            "package": "com.android.shell",
+            "version": "7.1.2"
+          },
+          {
+            "name": "com.android.wallpaperbackup",
+            "package": "com.android.wallpaperbackup",
+            "version": "7.1.2"
+          },
+          {
+            "name": "Penyimpanan Nomor yang Diblokir",
+            "package": "com.android.providers.blockednumber",
+            "version": "7.1.2"
+          },
+          {
+            "name": "Kamus Pengguna",
+            "package": "com.android.providers.userdictionary",
+            "version": "7.1.2"
+          },
+          {
+            "name": "Informasi darurat",
+            "package": "com.android.emergency",
+            "version": "7.1.2"
+          },
+          {
+            "name": "Fused Location",
+            "package": "com.android.location.fused",
+            "version": "7.1.2"
+          },
+          {
+            "name": "Sistem UI",
+            "package": "com.android.systemui",
+            "version": "7.1.2"
+          },
+          {
+            "name": "Penyimpanan Kontak",
+            "package": "com.android.providers.contacts",
+            "version": "7.1.2"
+          },
+          {
+            "name": "CaptivePortalLogin",
+            "package": "com.android.captiveportallogin",
+            "version": "7.1.2"
+          },
+          {
+            "name": "Gboard",
+            "package": "com.google.android.inputmethod.latin",
+            "version": "12.4.05.482060964-release-arm64-v8a"
+          }
+        ],
+        "screenTime": 0,
+        "updatedAt": "2026-06-24T14:43:51.945Z"
+      }
+    }
+  }
 }
