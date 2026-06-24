@@ -45,6 +45,24 @@
         "isLocked": false,
         "lastSeen": "2026-06-24T11:51:01.454Z",
         "createdAt": "2026-06-24T11:36:26.903Z"
+      },
+      "Infinix-Infinix_X6515-SP1A.210812.016": {
+        "deviceId": "Infinix-Infinix_X6515-SP1A.210812.016",
+        "name": "INFINIX Infinix X6515",
+        "deviceName": "INFINIX Infinix X6515",
+        "deviceModel": "INFINIX Infinix X6515",
+        "androidVersion": "",
+        "status": "online",
+        "battery": 10,
+        "charging": true,
+        "storage": {
+          "total": 0,
+          "used": 0,
+          "free": 0
+        },
+        "isLocked": false,
+        "lastSeen": "2026-06-24T12:36:19.650Z",
+        "createdAt": "2026-06-24T12:36:19.650Z"
       }
     }
   },
