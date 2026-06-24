@@ -84,6 +84,25 @@
   },
   "GDN-2026-6H9YIW": {
     "parentUid": "GDN-2026-6H9YIW",
-    "devices": {}
+    "devices": {
+      "Infinix-Infinix_X6515-SP1A.210812.016": {
+        "deviceId": "Infinix-Infinix_X6515-SP1A.210812.016",
+        "name": "INFINIX Infinix X6515",
+        "deviceName": "INFINIX Infinix X6515",
+        "deviceModel": "INFINIX Infinix X6515",
+        "androidVersion": "",
+        "status": "online",
+        "battery": 12,
+        "charging": true,
+        "storage": {
+          "total": 0,
+          "used": 0,
+          "free": 0
+        },
+        "isLocked": false,
+        "lastSeen": "2026-06-24T13:49:37.538Z",
+        "createdAt": "2026-06-24T13:49:37.538Z"
+      }
+    }
   }
 }
