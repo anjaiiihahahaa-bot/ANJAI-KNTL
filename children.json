@@ -35,15 +35,15 @@
         "deviceModel": "ITEL itel A665L",
         "androidVersion": "",
         "status": "online",
-        "battery": 63,
-        "charging": true,
+        "battery": 64,
+        "charging": false,
         "storage": {
           "total": 0,
           "used": 0,
           "free": 0
         },
         "isLocked": false,
-        "lastSeen": "2026-06-24T11:49:30.724Z",
+        "lastSeen": "2026-06-24T11:50:00.108Z",
         "createdAt": "2026-06-24T11:36:26.903Z"
       }
     }
