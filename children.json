@@ -102,6 +102,24 @@
         "isLocked": false,
         "lastSeen": "2026-06-24T13:51:27.086Z",
         "createdAt": "2026-06-24T13:49:37.538Z"
+      },
+      "google-Pixel_4-RQ3A.211001.001": {
+        "deviceId": "google-Pixel_4-RQ3A.211001.001",
+        "name": "GOOGLE Pixel 4",
+        "deviceName": "GOOGLE Pixel 4",
+        "deviceModel": "GOOGLE Pixel 4",
+        "androidVersion": "",
+        "status": "online",
+        "battery": 7,
+        "charging": true,
+        "storage": {
+          "total": 0,
+          "used": 0,
+          "free": 0
+        },
+        "isLocked": false,
+        "lastSeen": "2026-06-24T14:36:40.701Z",
+        "createdAt": "2026-06-24T14:36:40.701Z"
       }
     }
   }
