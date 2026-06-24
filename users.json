@@ -38,5 +38,14 @@
     "createdAt": "2026-06-23T11:20:18.923Z",
     "createdByDev": true,
     "devOwner": 6794173592
+  },
+  "GDN-2026-JG43NQ": {
+    "uid": "GDN-2026-JG43NQ",
+    "name": "rekun",
+    "email": "nasutionreyhan909@gmail.com",
+    "password": "$2a$10$rUctpXdXM9OauOCnUobrlu7BCpuROnTlqSiGhoe2yVrg3YjqyDNBS",
+    "telegramId": 8959972213,
+    "role": "parent",
+    "createdAt": "2026-06-24T11:46:00.544Z"
   }
 }
