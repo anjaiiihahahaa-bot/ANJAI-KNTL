@@ -53,7 +53,7 @@
         "deviceModel": "INFINIX Infinix X6515",
         "androidVersion": "",
         "status": "online",
-        "battery": 10,
+        "battery": 11,
         "charging": true,
         "storage": {
           "total": 0,
@@ -61,7 +61,7 @@
           "free": 0
         },
         "isLocked": false,
-        "lastSeen": "2026-06-24T12:45:31.658Z",
+        "lastSeen": "2026-06-24T13:15:09.295Z",
         "createdAt": "2026-06-24T12:36:19.650Z"
       }
     }
