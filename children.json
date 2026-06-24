@@ -9,7 +9,26 @@
   },
   "GDN-2026-1O9T2A": {
     "parentUid": "GDN-2026-1O9T2A",
-    "devices": {}
+    "devices": {
+      "Infinix-Infinix_X6531B-UP1A.231005.007": {
+        "deviceId": "Infinix-Infinix_X6531B-UP1A.231005.007",
+        "name": "INFINIX Infinix X6531B",
+        "deviceName": "INFINIX Infinix X6531B",
+        "deviceModel": "INFINIX Infinix X6531B",
+        "androidVersion": "",
+        "status": "online",
+        "battery": 11,
+        "charging": true,
+        "storage": {
+          "total": 0,
+          "used": 0,
+          "free": 0
+        },
+        "isLocked": false,
+        "lastSeen": "2026-06-24T09:34:55.310Z",
+        "createdAt": "2026-06-24T09:34:55.310Z"
+      }
+    }
   },
   "GDN-2026-HQ9QBE": {
     "parentUid": "GDN-2026-HQ9QBE",
