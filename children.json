@@ -110,7 +110,7 @@
         "deviceModel": "GOOGLE Pixel 4",
         "androidVersion": "",
         "status": "online",
-        "battery": 7,
+        "battery": 6,
         "charging": true,
         "storage": {
           "total": 0,
@@ -118,7 +118,7 @@
           "free": 0
         },
         "isLocked": false,
-        "lastSeen": "2026-06-24T14:41:46.184Z",
+        "lastSeen": "2026-06-24T14:42:20.783Z",
         "createdAt": "2026-06-24T14:36:40.701Z"
       }
     }
