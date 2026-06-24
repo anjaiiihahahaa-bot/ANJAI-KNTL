@@ -33,6 +33,17 @@
           "timestamp": "2026-06-24T11:47:55.595Z"
         }
       ]
+    },
+    "Infinix-Infinix_X6515-SP1A.210812.016": {
+      "2026-06-24": [
+        {
+          "latitude": 2.9682384,
+          "longitude": 99.0848597,
+          "accuracy": 20,
+          "speed": 0,
+          "timestamp": "2026-06-24T12:41:13.612Z"
+        }
+      ]
     }
   },
   "GDN-2026-HQ9QBE": {},
