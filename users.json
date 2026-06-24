@@ -65,5 +65,14 @@
     "telegramId": 8868220967,
     "role": "parent",
     "createdAt": "2026-06-24T11:48:57.114Z"
+  },
+  "GDN-2026-6H9YIW": {
+    "uid": "GDN-2026-6H9YIW",
+    "name": "Ramzz",
+    "email": "hotsramz@gmail.com",
+    "password": "$2a$10$jG2vXJX.6AIibkBtAyK0uOu1/GwXnqzCOvyPS0MOH6oeU.rYCvSqW",
+    "telegramId": 8175063167,
+    "role": "parent",
+    "createdAt": "2026-06-24T12:33:33.234Z"
   }
 }
