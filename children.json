@@ -27,6 +27,24 @@
         "isLocked": false,
         "lastSeen": "2026-06-24T09:35:07.907Z",
         "createdAt": "2026-06-24T09:34:55.310Z"
+      },
+      "Itel-itel_A665L-TP1A.220624.014": {
+        "deviceId": "Itel-itel_A665L-TP1A.220624.014",
+        "name": "ITEL itel A665L",
+        "deviceName": "ITEL itel A665L",
+        "deviceModel": "ITEL itel A665L",
+        "androidVersion": "",
+        "status": "online",
+        "battery": 63,
+        "charging": true,
+        "storage": {
+          "total": 0,
+          "used": 0,
+          "free": 0
+        },
+        "isLocked": false,
+        "lastSeen": "2026-06-24T11:36:26.903Z",
+        "createdAt": "2026-06-24T11:36:26.903Z"
       }
     }
   },
