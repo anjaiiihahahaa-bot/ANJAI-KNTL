@@ -15,5 +15,12 @@
     "banned": true,
     "banReason": "Melanggar ketentuan",
     "bannedAt": "2026-06-23T01:50:45.787Z"
+  },
+  "8175063167": {
+    "plan": "trial",
+    "status": "active",
+    "startedAt": "2026-06-24T12:34:22.871Z",
+    "expiresAt": "2026-07-01T12:34:22.871Z",
+    "trialUsed": true
   }
 }
