@@ -71,5 +71,17 @@
   "GDN-2026-JG43NQ": {},
   "GDN-2026-0NSID6": {},
   "GDN-2026-6MR140": {},
-  "GDN-2026-6H9YIW": {}
+  "GDN-2026-6H9YIW": {
+    "Infinix-Infinix_X6515-SP1A.210812.016": {
+      "2026-06-24": [
+        {
+          "latitude": 2.9682397,
+          "longitude": 99.0848626,
+          "accuracy": 20,
+          "speed": 0,
+          "timestamp": "2026-06-24T13:49:54.550Z"
+        }
+      ]
+    }
+  }
 }
