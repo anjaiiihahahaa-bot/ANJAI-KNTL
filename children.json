@@ -59,5 +59,9 @@
   "GDN-2026-0NSID6": {
     "parentUid": "GDN-2026-0NSID6",
     "devices": {}
+  },
+  "GDN-2026-6MR140": {
+    "parentUid": "GDN-2026-6MR140",
+    "devices": {}
   }
 }
