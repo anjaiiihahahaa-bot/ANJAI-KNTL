@@ -1,6 +1,18 @@
 {
   "GDN-2026-8LQDVF": {},
   "GDN-2026-AP4E2V": {},
-  "GDN-2026-1O9T2A": {},
+  "GDN-2026-1O9T2A": {
+    "Itel-itel_A665L-TP1A.220624.014": {
+      "2026-06-24": [
+        {
+          "latitude": -7.0512611,
+          "longitude": 112.5708489,
+          "accuracy": 100,
+          "speed": 0,
+          "timestamp": "2026-06-24T11:37:03.402Z"
+        }
+      ]
+    }
+  },
   "GDN-2026-HQ9QBE": {}
 }
