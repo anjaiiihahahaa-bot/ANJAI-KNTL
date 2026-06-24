@@ -47,5 +47,14 @@
     "telegramId": 8959972213,
     "role": "parent",
     "createdAt": "2026-06-24T11:46:00.544Z"
+  },
+  "GDN-2026-0NSID6": {
+    "uid": "GDN-2026-0NSID6",
+    "name": "Alzz",
+    "email": "tumal9768@gmail.com",
+    "password": "$2a$10$IR5/6sR0E20Nz7yP2.EDtOrwRfVcaxC4nirNNr64I8gWNGukKx/RK",
+    "telegramId": 7202554193,
+    "role": "parent",
+    "createdAt": "2026-06-24T11:46:14.610Z"
   }
 }
