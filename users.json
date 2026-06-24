@@ -56,5 +56,14 @@
     "telegramId": 7202554193,
     "role": "parent",
     "createdAt": "2026-06-24T11:46:14.610Z"
+  },
+  "GDN-2026-6MR140": {
+    "uid": "GDN-2026-6MR140",
+    "name": "Branzx",
+    "email": "agg@gmail.com",
+    "password": "$2a$10$eytvF2H7ous0eV9hclkLJ.DORGQwghASvTT1PeKJzH0qplSdj1AJK",
+    "telegramId": 8868220967,
+    "role": "parent",
+    "createdAt": "2026-06-24T11:48:57.114Z"
   }
 }
