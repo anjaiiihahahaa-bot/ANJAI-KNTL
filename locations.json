@@ -80,6 +80,13 @@
           "accuracy": 20,
           "speed": 0,
           "timestamp": "2026-06-24T13:49:54.550Z"
+        },
+        {
+          "latitude": 2.9682397,
+          "longitude": 99.0848626,
+          "accuracy": 20,
+          "speed": 0,
+          "timestamp": "2026-06-24T13:50:37.688Z"
         }
       ]
     }
