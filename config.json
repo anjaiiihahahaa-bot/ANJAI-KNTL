@@ -1,6 +1,6 @@
 {
   "maintenance": false,
-  "accountLimit": 1,
+  "accountLimit": 35,
   "pricing": {
     "monthly": 15000,
     "quarterly": 40000
