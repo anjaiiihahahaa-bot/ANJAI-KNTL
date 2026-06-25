@@ -74,5 +74,14 @@
     "telegramId": 8175063167,
     "role": "parent",
     "createdAt": "2026-06-24T12:33:33.234Z"
+  },
+  "GDN-2026-O5AQF5": {
+    "uid": "GDN-2026-O5AQF5",
+    "name": "RaxzMvp",
+    "email": "pujisusanti@gmail.com",
+    "password": "$2a$10$XJ.xQIC.cN0pm0GGEypVIuVhMHvdDnGZzuklDU7hsA6kf1W5cX7ke",
+    "telegramId": 7586435754,
+    "role": "parent",
+    "createdAt": "2026-06-25T00:21:26.964Z"
   }
 }
