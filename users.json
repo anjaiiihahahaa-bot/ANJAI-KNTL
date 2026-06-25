@@ -83,5 +83,14 @@
     "telegramId": 7586435754,
     "role": "parent",
     "createdAt": "2026-06-25T00:21:26.964Z"
+  },
+  "GDN-2026-NHF0IP": {
+    "uid": "GDN-2026-NHF0IP",
+    "name": "Alga",
+    "email": "sopianpratama1133@gmail.com",
+    "password": "$2a$10$Aw6Fy019ZReb4Y/fw/ZFqOB61mpKvfdJ1vC2fyYi5Z5FHHt0QONQi",
+    "telegramId": 8755668234,
+    "role": "parent",
+    "createdAt": "2026-06-25T02:52:41.276Z"
   }
 }
