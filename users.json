@@ -101,5 +101,14 @@
     "telegramId": 8753363617,
     "role": "parent",
     "createdAt": "2026-06-25T07:39:52.163Z"
+  },
+  "GDN-2026-HJSMPG": {
+    "uid": "GDN-2026-HJSMPG",
+    "name": "FJRROT GAMING",
+    "email": "gamingboost593@gmail.com",
+    "password": "$2a$10$pTHn6BY//jEEY18lCh9UmuCu.V5mcNg3P3YakAenOC3.4Ysiv60Ka",
+    "telegramId": 1995807034,
+    "role": "parent",
+    "createdAt": "2026-06-25T07:53:34.914Z"
   }
 }
