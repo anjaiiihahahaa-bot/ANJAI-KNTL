@@ -92,5 +92,14 @@
     "telegramId": 8755668234,
     "role": "parent",
     "createdAt": "2026-06-25T02:52:41.276Z"
+  },
+  "GDN-2026-WGVVFZ": {
+    "uid": "GDN-2026-WGVVFZ",
+    "name": "Helzzz",
+    "email": "saputralmihusa@gmail.com",
+    "password": "$2a$10$qL972rtAgwBW2bsUmKhEceWvuRz7RFbljcC2qeOkET2r7r/MoP.JS",
+    "telegramId": 8753363617,
+    "role": "parent",
+    "createdAt": "2026-06-25T07:39:52.163Z"
   }
 }
