@@ -76,7 +76,26 @@
   },
   "GDN-2026-0NSID6": {
     "parentUid": "GDN-2026-0NSID6",
-    "devices": {}
+    "devices": {
+      "Redmi-M2006C3MG-QP1A.190711.020": {
+        "deviceId": "Redmi-M2006C3MG-QP1A.190711.020",
+        "name": "REDMI M2006C3MG",
+        "deviceName": "REDMI M2006C3MG",
+        "deviceModel": "REDMI M2006C3MG",
+        "androidVersion": "",
+        "status": "online",
+        "battery": 80,
+        "charging": false,
+        "storage": {
+          "total": 0,
+          "used": 0,
+          "free": 0
+        },
+        "isLocked": false,
+        "lastSeen": "2026-06-25T04:27:42.340Z",
+        "createdAt": "2026-06-25T04:27:42.340Z"
+      }
+    }
   },
   "GDN-2026-6MR140": {
     "parentUid": "GDN-2026-6MR140",
