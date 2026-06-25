@@ -84,7 +84,7 @@
         "deviceModel": "REDMI M2006C3MG",
         "androidVersion": "",
         "status": "online",
-        "battery": 80,
+        "battery": 79,
         "charging": false,
         "storage": {
           "total": 0,
@@ -92,7 +92,7 @@
           "free": 0
         },
         "isLocked": false,
-        "lastSeen": "2026-06-25T04:33:37.194Z",
+        "lastSeen": "2026-06-25T04:34:07.155Z",
         "createdAt": "2026-06-25T04:27:42.340Z"
       }
     }
