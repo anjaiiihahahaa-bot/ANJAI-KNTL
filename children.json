@@ -149,5 +149,9 @@
   "GDN-2026-NHF0IP": {
     "parentUid": "GDN-2026-NHF0IP",
     "devices": {}
+  },
+  "GDN-2026-WGVVFZ": {
+    "parentUid": "GDN-2026-WGVVFZ",
+    "devices": {}
   }
 }
