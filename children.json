@@ -119,10 +119,10 @@
           "used": 0,
           "free": 0
         },
-        "isLocked": false,
+        "isLocked": true,
         "lastSeen": "2026-06-24T13:51:27.086Z",
         "createdAt": "2026-06-24T13:49:37.538Z",
-        "lockMessage": ""
+        "lockMessage": "HP kamu dikunci oleh orang tua."
       },
       "google-Pixel_4-RQ3A.211001.001": {
         "deviceId": "google-Pixel_4-RQ3A.211001.001",
