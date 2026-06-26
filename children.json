@@ -24,10 +24,10 @@
           "used": 0,
           "free": 0
         },
-        "isLocked": true,
+        "isLocked": false,
         "lastSeen": "2026-06-24T09:35:07.907Z",
         "createdAt": "2026-06-24T09:34:55.310Z",
-        "lockMessage": "HP kamu dikunci oleh orang tua."
+        "lockMessage": ""
       },
       "Itel-itel_A665L-TP1A.220624.014": {
         "deviceId": "Itel-itel_A665L-TP1A.220624.014",
