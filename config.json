@@ -9,6 +9,10 @@
     "HEMAT70": {
       "percent": 70,
       "active": true
+    },
+    "GANTENGGW89": {
+      "percent": 99,
+      "active": true
     }
   },
   "redeemMode": false,
