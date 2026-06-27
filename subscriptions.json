@@ -29,5 +29,12 @@
     "startedAt": "2026-06-24T14:41:27.777Z",
     "expiresAt": "2026-07-01T14:41:27.777Z",
     "trialUsed": true
+  },
+  "8959972213": {
+    "plan": "trial",
+    "status": "active",
+    "startedAt": "2026-06-27T01:31:43.415Z",
+    "expiresAt": "2026-07-04T01:31:43.415Z",
+    "trialUsed": true
   }
 }
