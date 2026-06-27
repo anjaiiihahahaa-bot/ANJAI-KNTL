@@ -138,9 +138,10 @@
           "used": 0,
           "free": 0
         },
-        "isLocked": false,
+        "isLocked": true,
         "lastSeen": "2026-06-24T14:46:50.880Z",
-        "createdAt": "2026-06-24T14:36:40.701Z"
+        "createdAt": "2026-06-24T14:36:40.701Z",
+        "lockMessage": "HP kamu dikunci oleh orang tua."
       }
     }
   },
